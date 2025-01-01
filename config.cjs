@@ -8,7 +8,7 @@ module.exports = {
   "AUTO_READ_STATUS": process.env.AUTO_READ_STATUS === 'true',
   "MODE": process.env.MODE || "pubic",
   "OWNER_NUMBER": process.env.OWNER_NUMBER || "22897399806",
-  "OWNER_NAME": process.env.OWNER_NAME || "Leopardas ♌",
+  "OWNER_NAME": process.env.OWNER_NAME || "Leopardas♌",
   "ALWAYS_ONLINE": process.env.ALWAYS_ONLINE === 'falsr',
   "PRESENCE": process.env.PRESENCE || "online",
   "OMDB_API_KEY": process.env.OMDB_API_KEY || "76cb7f39",
